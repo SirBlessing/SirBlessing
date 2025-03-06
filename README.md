@@ -2,7 +2,7 @@
 - 👀 I’m interested in SoftWare Development
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me olaniyiolawale013@gmail.com
+- 📫 How to reach me olaniyiblessing360@gmail.com
 - ⚡ Fun fact: i am going to be the greatest developer thats available yet
 
 <!---
