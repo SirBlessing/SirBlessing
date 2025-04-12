@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirBlessing
 - 👀 I’m interested in SoftWare Development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me olaniyiblessing360@gmail.com
 - ⚡ Fun fact: i am going to be the greatest developer thats available yet
