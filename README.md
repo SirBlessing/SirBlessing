@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SirBlessing
-- 👀 I’m interested in SoftWare Development
+- 👀 I’m AI SoftWare Developer
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me olaniyiblessing360@gmail.com
